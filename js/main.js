@@ -1,4 +1,3 @@
-// Initialize smooth scrolling with Lenis
 const lenis = new Lenis({
     duration: 0.8,
     smoothWheel: true,
